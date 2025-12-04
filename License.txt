@@ -1,0 +1,42 @@
+END USER LICENSE AGREEMENT (EULA)
+
+Contract Parties:
+- Licensor: Mahir Tolga Akay (Individual Developer)
+- Licensee: Any individual or organization installing or using this NuGet package
+
+Copyright (c) 2025 Mahir Tolga Akay. All rights reserved.
+
+This NuGet package ("Software") is licensed, not sold. By installing or using
+the Software, the Licensee agrees to the following terms:
+
+1. Grant of License
+   - The Licensor grants the Licensee a non‑exclusive, non‑transferable right to
+     use the Software in applications.
+   - The Licensee may distribute applications that reference the Software, but
+     may not redistribute the Software itself as a standalone package.
+
+2. Restrictions
+   - The Licensee may not reverse engineer, decompile, or disassemble the Software.
+   - The Licensee may not modify, rent, lease, sell, or sublicense the Software.
+   - The Licensee may not publish or make the source code of the Software available.
+
+3. Ownership
+   - The Software is the intellectual property of the Licensor and is protected
+     by copyright laws and international treaties.
+   - All rights not expressly granted are reserved.
+
+4. Disclaimer of Warranty
+   - The Software is provided "AS IS" without warranty of any kind, express or
+     implied, including but not limited to warranties of merchantability or
+     fitness for a particular purpose.
+
+5. Limitation of Liability
+   - In no event shall the Licensor be liable for any damages arising from the
+     use of or inability to use the Software.
+
+6. Termination
+   - This license is effective until terminated. The Licensor may terminate it
+     at any time if the Licensee fails to comply with its terms.
+
+By using the Software, the Licensee acknowledges that they have read,
+understood, and agree to be bound by this EULA.
